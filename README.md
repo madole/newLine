@@ -7,6 +7,6 @@ Pass it a string and an optional boolean to return a string with a new line ('\n
     var str = 'String to have a new line concated';
     
     console.log(nl(str)); // 'String to have a new line concated\n'
-    console.log(nl(str, true)); '\nString to have a new line concated'
+    console.log(nl(str, true)); // '\nString to have a new line concated'
   
   

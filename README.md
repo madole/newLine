@@ -14,4 +14,14 @@ To run tests
 
     npm install -g mocha
     
-    mocha tests/newLineTest.js
+    mocha tests/newLineTests.js
+    
+   
+   
+###Install from Github
+
+    npm install git://github.com/madole/newLine.git
+    
+###Install from NPM
+    
+    npm install newlinetostring

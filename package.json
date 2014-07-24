@@ -1,0 +1,30 @@
+{
+  "name": "newlinetostring",
+  "version": "0.0.1",
+  "description": "takes a string and appends or prepends a new line to it depending on an optional boolean passed in",
+  "main": "newLine.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/newLineTests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madole/newLine.git"
+  },
+  "keywords": [
+    "newline",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Andrew McDowell <madoliole@gmail.com> (http://madole.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madole/newLine/issues"
+  },
+  "homepage": "https://github.com/madole/newLine",
+  "devDependencies": {
+    "mocha": "^1.21.0"
+  }
+}
